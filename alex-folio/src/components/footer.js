@@ -25,7 +25,7 @@ const Footer = () => (
       rel="nofollow noopener noreferrer"
       aria-label="External Link"
     >
-       Check out my GitHub
+       github
     </a>
   </StyledFooter>
 )
