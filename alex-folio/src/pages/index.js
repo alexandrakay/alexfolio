@@ -5,7 +5,7 @@ import { Router, Link } from '@reach/router';
 import Layout from '../components/layout'
 import Hero from '../components/hero'
 
-
+//this is for spa
 const Project = React.lazy(() => import('../components/projects'))
 const About = React.lazy(() => import('../components/about.js'))
 
