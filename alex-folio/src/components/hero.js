@@ -14,7 +14,7 @@ const StyledSection = styled.section`
 `
 
 const Hero = ({ content }) => {
-    //replace hard-coded data with queried used in hero
+ 
     const { frontmatter, rawMarkdownBody } = content
   return (
     <StyledSection id="hero">
@@ -26,7 +26,7 @@ const Hero = ({ content }) => {
       <h2 className="subtitle">
           {frontmatter.subtitlePrefix}{" "}
           <span className="highlighted">{frontmatter.subtitleHighlight}</span>
-        {/* I make things.. <span className="highlighted">web based things</span>. */}
+        {/* I make things.. <span className="highlighted">...</span>. */}
       </h2>
       <div className="description">
         {rawMarkdownBody}

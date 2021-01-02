@@ -16,7 +16,7 @@ const GlobalStyle = createGlobalStyle`
         background-color: white;
         color: black;
         font-size: 1.125rem;
-        font-family: "Roboto", Arial, Helvetica, sans-serif;
+        font-family: "Oswald";
         line-height: 1.5rem;
         font-weight: 400;
     }

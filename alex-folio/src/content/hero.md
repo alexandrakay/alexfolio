@@ -1,8 +1,8 @@
 ---
 greetings: "Hi."
 emoji: ""
-title: "I'm Alexandra."
-subtitlePrefix: "I make and design things "
+title: "I'm Billy."
+subtitlePrefix: "I color ducks blue "
 subtitleHighlight: "for the web"
 ---
 
